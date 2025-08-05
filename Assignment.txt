@@ -1,0 +1,39 @@
+AI Solution Design
+
+Goal:
+
+
+Design and prototype a system which converts unstructured plain text into structured format strictly following a desired JSON schema.
+
+
+
+Assignment Scope:
+
+
+You can expose the system via CLI or web app as per your convenience.
+
+You can use any closed LLM’s API, framework or libraries.
+
+No constraints on cost or latency per request the solution takes. Do not optimize to save money or tokens.
+
+No need for all the production grade bells and whistles like streaming, high throughputs, rate limit retries, etc.
+
+
+
+What we will look for:
+
+
+P1. A log of your decisions, experiments, insights around this problem.
+
+P2. Solution that works on these sample test cases and outputs adhere to their schema.
+
+P3. Can support large input context window tokens (50k text inputs, 100k schema files, 7+ nested schema, 1k+ literals)
+
+
+
+Submission Guidelines:
+
+
+Solution Design Doc, Implementation log,
+A github repo and/or deployed UI and constraints you enforced
+Trade offs you made and how you might address them given enough computation or time.

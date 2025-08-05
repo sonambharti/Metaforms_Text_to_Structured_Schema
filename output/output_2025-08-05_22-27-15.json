@@ -1,0 +1,712 @@
+{
+  "basics": {
+    "name": "Sonam Bharti",
+    "contact": {
+      "phone": "+91 7903810871",
+      "email": "sonam.iitjammu2023@gmail.com",
+      "portfolio": "sonam-portfolio-three.vercel.app",
+      "linkedin": "linkedin.com/in/sonam-bharti-213127178",
+      "github": "github.com/sonambharti",
+      "medium": "medium.com/@sonam.iitjammu2023"
+    },
+    "education": [
+      {
+        "institution": "Indian Institute of Technology Jammu",
+        "location": "Jammu",
+        "duration": "Sep 2021 - Jun 2023",
+        "course": "Master of Technology in Computer Science and Engineering",
+        "cgpa": "8.25/10"
+      },
+      {
+        "institution": "Nalanda College of Engineering",
+        "location": "Chandi, Bihar",
+        "duration": "Aug 2017 - Sep 2021",
+        "course": "Bachelor of Technology in Computer Science and Engineering",
+        "cgpa": "8.28/10"
+      }
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "databases": [
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "csFundamentals": [
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "System Design",
+        "OS",
+        "Networks"
+      ],
+      "fullStackWeb": [
+        "React JS",
+        "Node JS",
+        "FastAPI",
+        "REST API",
+        "Responsive Design",
+        "Accessibility"
+      ],
+      "developmentPractices": [
+        "Code Reviews",
+        "Design Reviews",
+        "Debugging",
+        "Agile",
+        "CI/CD",
+        "Git"
+      ],
+      "tools": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Grafana",
+        "GitHub",
+        "VS Code",
+        "Postman"
+      ]
+    },
+    "experience": [
+      {
+        "company": "Saarthi.ai",
+        "location": "Bengaluru",
+        "duration": "Aug 2023 - Apr 2025",
+        "role": "Full Stack Developer (SDE-I)",
+        "achievements": [
+          "Led the BOT and NLU team to launch insurance renewal bot",
+          "Built generative AI bots using Gradio, LangChain, vectorDB (like weaviate), and prompt engineering",
+          "Automated data preprocessing using Python scripts",
+          "Implemented solutions to identify new entity through NER for 3 verticals",
+          "Optimized voice/WhatsApp bots in Agile methodologies",
+          "Conducted root cause analysis, and the mongoDB performance tuning",
+          "Developed REST API, using CRUD functionality",
+          "Containerized applications using Docker and orchestrated deployment via Kubernetes",
+          "Collaborated with cross-functional teams to streamline development workflows"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Photo-Realistic Single Image Super Resolution Using GAN",
+        "technologies": [
+          "Python",
+          "Numpy",
+          "PyTorch",
+          "celebA Dataset"
+        ],
+        "achievements": [
+          "Implemented SRGAN architecture aimed at enhancing the finer details of degraded images",
+          "Trained a Generative Adversarial Network (GAN) to generate up to 4-times upscaled high-resolution image",
+          "Optimized model performance by fine-tuning hyperparameters and utilizing perceptual loss to enhance image quality"
+        ]
+      },
+      {
+        "title": "Improving Deep Learning Model using Data Augmentation and Transfer Learning",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Tensorflow"
+        ],
+        "achievements": [
+          "Implemented transfer learning with Xception architecture using ImageNet weights to classify Simpson image dataset",
+          "Applied data augmentation to create more different geometrical transformed images to reduce overfitting of model",
+          "Evaluated data augmentation\u2019s efficiency, comparing it favorably to the Transfer Learning method for Simpson dataset"
+        ]
+      }
+    ],
+    "scholasticAchievements": [
+      "Ranked in the top 4% among GATE 2021 Computer Science candidates",
+      "Attained top 3 position in B.Tech third year, earning prestigious Academic excellence award",
+      "Achieved under 25th rank in the HCL First Career Grand Quest 2021 , a national-level competition",
+      "Secured 3rd position in TEQUIP3 hackathon organized by LNJPIT, Chapra, Bihar, demonstrating coding prowess",
+      "Demonstrated DSA problem-solving skills over 300 challenges on Platforms like GeeksForGeeks , Leetcode"
+    ],
+    "positionOfResponsibilities": [
+      {
+        "role": "Teaching Assistant",
+        "institution": "IIT Jammu",
+        "location": "Jammu and Kashmir",
+        "duration": "Sep 2021 - May 2023",
+        "responsibilities": [
+          "Assisted Assistant Prof. Harkeerat Kaur in Design Analysis Algorithm Lab assignments and exam evaluations",
+          "Supported Associate Prof. Bruhadeshwar Bezawada with Operating System Lab assessments, and evaluations"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "name": "Sonam Bharti",
+    "contact": {
+      "phone": "+91 7903810871",
+      "email": "sonam.iitjammu2023@gmail.com",
+      "portfolio": "sonam-portfolio-three.vercel.app",
+      "linkedin": "linkedin.com/in/sonam-bharti-213127178",
+      "github": "github.com/sonambharti",
+      "medium": "medium.com/@sonam.iitjammu2023"
+    },
+    "education": [
+      {
+        "institution": "Indian Institute of Technology Jammu",
+        "location": "Jammu",
+        "duration": "Sep 2021 - Jun 2023",
+        "course": "Master of Technology in Computer Science and Engineering",
+        "cgpa": "8.25/10"
+      },
+      {
+        "institution": "Nalanda College of Engineering",
+        "location": "Chandi, Bihar",
+        "duration": "Aug 2017 - Sep 2021",
+        "course": "Bachelor of Technology in Computer Science and Engineering",
+        "cgpa": "8.28/10"
+      }
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "databases": [
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "csFundamentals": [
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "System Design",
+        "OS",
+        "Networks"
+      ],
+      "fullStackWeb": [
+        "React JS",
+        "Node JS",
+        "FastAPI",
+        "REST API",
+        "Responsive Design",
+        "Accessibility"
+      ],
+      "developmentPractices": [
+        "Code Reviews",
+        "Design Reviews",
+        "Debugging",
+        "Agile",
+        "CI/CD",
+        "Git"
+      ],
+      "tools": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Grafana",
+        "GitHub",
+        "VS Code",
+        "Postman"
+      ]
+    },
+    "experience": [
+      {
+        "company": "Saarthi.ai",
+        "location": "Bengaluru",
+        "duration": "Aug 2023 - Apr 2025",
+        "role": "Full Stack Developer (SDE-I)",
+        "achievements": [
+          "Led the BOT and NLU team to launch insurance renewal bot",
+          "Built generative AI bots using Gradio, LangChain, vectorDB (like weaviate), and prompt engineering",
+          "Automated data preprocessing using Python scripts",
+          "Implemented solutions to identify new entity through NER for 3 verticals",
+          "Optimized voice/WhatsApp bots in Agile methodologies",
+          "Conducted root cause analysis, and the mongoDB performance tuning",
+          "Developed REST API, using CRUD functionality",
+          "Containerized applications using Docker and orchestrated deployment via Kubernetes",
+          "Collaborated with cross-functional teams to streamline development workflows"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Photo-Realistic Single Image Super Resolution Using GAN",
+        "technologies": [
+          "Python",
+          "Numpy",
+          "PyTorch",
+          "celebA Dataset"
+        ],
+        "achievements": [
+          "Implemented SRGAN architecture aimed at enhancing the finer details of degraded images",
+          "Trained a Generative Adversarial Network (GAN) to generate up to 4-times upscaled high-resolution image",
+          "Optimized model performance by fine-tuning hyperparameters and utilizing perceptual loss to enhance image quality"
+        ]
+      },
+      {
+        "title": "Improving Deep Learning Model using Data Augmentation and Transfer Learning",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Tensorflow"
+        ],
+        "achievements": [
+          "Implemented transfer learning with Xception architecture using ImageNet weights to classify Simpson image dataset",
+          "Applied data augmentation to create more different geometrical transformed images to reduce overfitting of model",
+          "Evaluated data augmentation\u2019s efficiency, comparing it favorably to the Transfer Learning method for Simpson dataset"
+        ]
+      }
+    ],
+    "scholasticAchievements": [
+      "Ranked in the top 4% among GATE 2021 Computer Science candidates",
+      "Attained top 3 position in B.Tech third year, earning prestigious Academic excellence award",
+      "Achieved under 25th rank in the HCL First Career Grand Quest 2021 , a national-level competition",
+      "Secured 3rd position in TEQUIP3 hackathon organized by LNJPIT, Chapra, Bihar, demonstrating coding prowess",
+      "Demonstrated DSA problem-solving skills over 300 challenges on Platforms like GeeksForGeeks , Leetcode"
+    ],
+    "positionOfResponsibilities": [
+      {
+        "role": "Teaching Assistant",
+        "institution": "IIT Jammu",
+        "location": "Jammu and Kashmir",
+        "duration": "Sep 2021 - May 2023",
+        "responsibilities": [
+          "Assisted Assistant Prof. Harkeerat Kaur in Design Analysis Algorithm Lab assignments and exam evaluations",
+          "Supported Associate Prof. Bruhadeshwar Bezawada with Operating System Lab assessments, and evaluations"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "name": "Sonam Bharti",
+    "contact": {
+      "phone": "+91 7903810871",
+      "email": "sonam.iitjammu2023@gmail.com",
+      "portfolio": "sonam-portfolio-three.vercel.app",
+      "linkedin": "linkedin.com/in/sonam-bharti-213127178",
+      "github": "github.com/sonambharti",
+      "medium": "medium.com/@sonam.iitjammu2023"
+    },
+    "education": [
+      {
+        "institution": "Indian Institute of Technology Jammu",
+        "location": "Jammu",
+        "duration": "Sep 2021 - Jun 2023",
+        "course": "Master of Technology in Computer Science and Engineering",
+        "cgpa": "8.25/10"
+      },
+      {
+        "institution": "Nalanda College of Engineering",
+        "location": "Chandi, Bihar",
+        "duration": "Aug 2017 - Sep 2021",
+        "course": "Bachelor of Technology in Computer Science and Engineering",
+        "cgpa": "8.28/10"
+      }
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "databases": [
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "csFundamentals": [
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "System Design",
+        "OS",
+        "Networks"
+      ],
+      "fullStackWeb": [
+        "React JS",
+        "Node JS",
+        "FastAPI",
+        "REST API",
+        "Responsive Design",
+        "Accessibility"
+      ],
+      "developmentPractices": [
+        "Code Reviews",
+        "Design Reviews",
+        "Debugging",
+        "Agile",
+        "CI/CD",
+        "Git"
+      ],
+      "tools": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Grafana",
+        "GitHub",
+        "VS Code",
+        "Postman"
+      ]
+    },
+    "experience": [
+      {
+        "company": "Saarthi.ai",
+        "location": "Bengaluru",
+        "duration": "Aug 2023 - Apr 2025",
+        "role": "Full Stack Developer (SDE-I)",
+        "achievements": [
+          "Led the BOT and NLU team to launch insurance renewal bot",
+          "Built generative AI bots using Gradio, LangChain, vectorDB (like weaviate), and prompt engineering",
+          "Automated data preprocessing using Python scripts",
+          "Implemented solutions to identify new entity through NER for 3 verticals",
+          "Optimized voice/WhatsApp bots in Agile methodologies",
+          "Conducted root cause analysis, and the mongoDB performance tuning",
+          "Developed REST API, using CRUD functionality",
+          "Containerized applications using Docker and orchestrated deployment via Kubernetes",
+          "Collaborated with cross-functional teams to streamline development workflows"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Photo-Realistic Single Image Super Resolution Using GAN",
+        "technologies": [
+          "Python",
+          "Numpy",
+          "PyTorch",
+          "celebA Dataset"
+        ],
+        "achievements": [
+          "Implemented SRGAN architecture aimed at enhancing the finer details of degraded images",
+          "Trained a Generative Adversarial Network (GAN) to generate up to 4-times upscaled high-resolution image",
+          "Optimized model performance by fine-tuning hyperparameters and utilizing perceptual loss to enhance image quality"
+        ]
+      },
+      {
+        "title": "Improving Deep Learning Model using Data Augmentation and Transfer Learning",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Tensorflow"
+        ],
+        "achievements": [
+          "Implemented transfer learning with Xception architecture using ImageNet weights to classify Simpson image dataset",
+          "Applied data augmentation to create more different geometrical transformed images to reduce overfitting of model",
+          "Evaluated data augmentation\u2019s efficiency, comparing it favorably to the Transfer Learning method for Simpson dataset"
+        ]
+      }
+    ],
+    "scholasticAchievements": [
+      "Ranked in the top 4% among GATE 2021 Computer Science candidates",
+      "Attained top 3 position in B.Tech third year, earning prestigious Academic excellence award",
+      "Achieved under 25th rank in the HCL First Career Grand Quest 2021 , a national-level competition",
+      "Secured 3rd position in TEQUIP3 hackathon organized by LNJPIT, Chapra, Bihar, demonstrating coding prowess",
+      "Demonstrated DSA problem-solving skills over 300 challenges on Platforms like GeeksForGeeks , Leetcode"
+    ],
+    "positionOfResponsibilities": [
+      {
+        "role": "Teaching Assistant",
+        "institution": "IIT Jammu",
+        "location": "Jammu and Kashmir",
+        "duration": "Sep 2021 - May 2023",
+        "responsibilities": [
+          "Assisted Assistant Prof. Harkeerat Kaur in Design Analysis Algorithm Lab assignments and exam evaluations",
+          "Supported Associate Prof. Bruhadeshwar Bezawada with Operating System Lab assessments, and evaluations"
+        ]
+      }
+    ]
+  },
+  "work": {
+    "name": "Sonam Bharti",
+    "contact": {
+      "phone": "+91 7903810871",
+      "email": "sonam.iitjammu2023@gmail.com",
+      "portfolio": "sonam-portfolio-three.vercel.app",
+      "linkedin": "linkedin.com/in/sonam-bharti-213127178",
+      "github": "github.com/sonambharti",
+      "medium": "medium.com/@sonam.iitjammu2023"
+    },
+    "education": [
+      {
+        "institution": "Indian Institute of Technology Jammu",
+        "location": "Jammu",
+        "duration": "Sep 2021 - Jun 2023",
+        "course": "Master of Technology in Computer Science and Engineering",
+        "cgpa": "8.25/10"
+      },
+      {
+        "institution": "Nalanda College of Engineering",
+        "location": "Chandi, Bihar",
+        "duration": "Aug 2017 - Sep 2021",
+        "course": "Bachelor of Technology in Computer Science and Engineering",
+        "cgpa": "8.28/10"
+      }
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "databases": [
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "csFundamentals": [
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "System Design",
+        "OS",
+        "Networks"
+      ],
+      "fullStackWeb": [
+        "React JS",
+        "Node JS",
+        "FastAPI",
+        "REST API",
+        "Responsive Design",
+        "Accessibility"
+      ],
+      "developmentPractices": [
+        "Code Reviews",
+        "Design Reviews",
+        "Debugging",
+        "Agile",
+        "CI/CD",
+        "Git"
+      ],
+      "tools": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Grafana",
+        "GitHub",
+        "VS Code",
+        "Postman"
+      ]
+    },
+    "experience": [
+      {
+        "company": "Saarthi.ai",
+        "location": "Bengaluru",
+        "duration": "Aug 2023 - Apr 2025",
+        "role": "Full Stack Developer (SDE-I)",
+        "achievements": [
+          "Led the BOT and NLU team to launch insurance renewal bot",
+          "Built generative AI bots using Gradio, LangChain, vectorDB (like weaviate), and prompt engineering",
+          "Automated data preprocessing using Python scripts",
+          "Implemented solutions to identify new entity through NER for 3 verticals",
+          "Optimized voice/WhatsApp bots in Agile methodologies",
+          "Conducted root cause analysis, and the mongoDB performance tuning",
+          "Developed REST API, using CRUD functionality",
+          "Containerized applications using Docker and orchestrated deployment via Kubernetes",
+          "Collaborated with cross-functional teams to streamline development workflows"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Photo-Realistic Single Image Super Resolution Using GAN",
+        "technologies": [
+          "Python",
+          "Numpy",
+          "PyTorch",
+          "celebA Dataset"
+        ],
+        "achievements": [
+          "Implemented SRGAN architecture aimed at enhancing the finer details of degraded images",
+          "Trained a Generative Adversarial Network (GAN) to generate up to 4-times upscaled high-resolution image",
+          "Optimized model performance by fine-tuning hyperparameters and utilizing perceptual loss to enhance image quality"
+        ]
+      },
+      {
+        "title": "Improving Deep Learning Model using Data Augmentation and Transfer Learning",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Tensorflow"
+        ],
+        "achievements": [
+          "Implemented transfer learning with Xception architecture using ImageNet weights to classify Simpson image dataset",
+          "Applied data augmentation to create more different geometrical transformed images to reduce overfitting of model",
+          "Evaluated data augmentation\u2019s efficiency, comparing it favorably to the Transfer Learning method for Simpson dataset"
+        ]
+      }
+    ],
+    "scholasticAchievements": [
+      "Ranked in the top 4% among GATE 2021 Computer Science candidates",
+      "Attained top 3 position in B.Tech third year, earning prestigious Academic excellence award",
+      "Achieved under 25th rank in the HCL First Career Grand Quest 2021 , a national-level competition",
+      "Secured 3rd position in TEQUIP3 hackathon organized by LNJPIT, Chapra, Bihar, demonstrating coding prowess",
+      "Demonstrated DSA problem-solving skills over 300 challenges on Platforms like GeeksForGeeks , Leetcode"
+    ],
+    "positionOfResponsibilities": [
+      {
+        "role": "Teaching Assistant",
+        "institution": "IIT Jammu",
+        "location": "Jammu and Kashmir",
+        "duration": "Sep 2021 - May 2023",
+        "responsibilities": [
+          "Assisted Assistant Prof. Harkeerat Kaur in Design Analysis Algorithm Lab assignments and exam evaluations",
+          "Supported Associate Prof. Bruhadeshwar Bezawada with Operating System Lab assessments, and evaluations"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "name": "Sonam Bharti",
+    "contact": {
+      "phone": "+91 7903810871",
+      "email": "sonam.iitjammu2023@gmail.com",
+      "portfolio": "sonam-portfolio-three.vercel.app",
+      "linkedin": "linkedin.com/in/sonam-bharti-213127178",
+      "github": "github.com/sonambharti",
+      "medium": "medium.com/@sonam.iitjammu2023"
+    },
+    "education": [
+      {
+        "institution": "Indian Institute of Technology Jammu",
+        "location": "Jammu",
+        "duration": "Sep 2021 - Jun 2023",
+        "course": "Master of Technology in Computer Science and Engineering",
+        "cgpa": "8.25/10"
+      },
+      {
+        "institution": "Nalanda College of Engineering",
+        "location": "Chandi, Bihar",
+        "duration": "Aug 2017 - Sep 2021",
+        "course": "Bachelor of Technology in Computer Science and Engineering",
+        "cgpa": "8.28/10"
+      }
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "databases": [
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "csFundamentals": [
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "System Design",
+        "OS",
+        "Networks"
+      ],
+      "fullStackWeb": [
+        "React JS",
+        "Node JS",
+        "FastAPI",
+        "REST API",
+        "Responsive Design",
+        "Accessibility"
+      ],
+      "developmentPractices": [
+        "Code Reviews",
+        "Design Reviews",
+        "Debugging",
+        "Agile",
+        "CI/CD",
+        "Git"
+      ],
+      "tools": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Grafana",
+        "GitHub",
+        "VS Code",
+        "Postman"
+      ]
+    },
+    "experience": [
+      {
+        "company": "Saarthi.ai",
+        "location": "Bengaluru",
+        "duration": "Aug 2023 - Apr 2025",
+        "role": "Full Stack Developer (SDE-I)",
+        "achievements": [
+          "Led the BOT and NLU team to launch insurance renewal bot",
+          "Built generative AI bots using Gradio, LangChain, vectorDB (like weaviate), and prompt engineering",
+          "Automated data preprocessing using Python scripts",
+          "Implemented solutions to identify new entity through NER for 3 verticals",
+          "Optimized voice/WhatsApp bots in Agile methodologies",
+          "Conducted root cause analysis, and the mongoDB performance tuning",
+          "Developed REST API, using CRUD functionality",
+          "Containerized applications using Docker and orchestrated deployment via Kubernetes",
+          "Collaborated with cross-functional teams to streamline development workflows"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Photo-Realistic Single Image Super Resolution Using GAN",
+        "technologies": [
+          "Python",
+          "Numpy",
+          "PyTorch",
+          "celebA Dataset"
+        ],
+        "achievements": [
+          "Implemented SRGAN architecture aimed at enhancing the finer details of degraded images",
+          "Trained a Generative Adversarial Network (GAN) to generate up to 4-times upscaled high-resolution image",
+          "Optimized model performance by fine-tuning hyperparameters and utilizing perceptual loss to enhance image quality"
+        ]
+      },
+      {
+        "title": "Improving Deep Learning Model using Data Augmentation and Transfer Learning",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Tensorflow"
+        ],
+        "achievements": [
+          "Implemented transfer learning with Xception architecture using ImageNet weights to classify Simpson image dataset",
+          "Applied data augmentation to create more different geometrical transformed images to reduce overfitting of model",
+          "Evaluated data augmentation\u2019s efficiency, comparing it favorably to the Transfer Learning method for Simpson dataset"
+        ]
+      }
+    ],
+    "scholasticAchievements": [
+      "Ranked in the top 4% among GATE 2021 Computer Science candidates",
+      "Attained top 3 position in B.Tech third year, earning prestigious Academic excellence award",
+      "Achieved under 25th rank in the HCL First Career Grand Quest 2021 , a national-level competition",
+      "Secured 3rd position in TEQUIP3 hackathon organized by LNJPIT, Chapra, Bihar, demonstrating coding prowess",
+      "Demonstrated DSA problem-solving skills over 300 challenges on Platforms like GeeksForGeeks , Leetcode"
+    ],
+    "positionOfResponsibilities": [
+      {
+        "role": "Teaching Assistant",
+        "institution": "IIT Jammu",
+        "location": "Jammu and Kashmir",
+        "duration": "Sep 2021 - May 2023",
+        "responsibilities": [
+          "Assisted Assistant Prof. Harkeerat Kaur in Design Analysis Algorithm Lab assignments and exam evaluations",
+          "Supported Associate Prof. Bruhadeshwar Bezawada with Operating System Lab assessments, and evaluations"
+        ]
+      }
+    ]
+  }
+}

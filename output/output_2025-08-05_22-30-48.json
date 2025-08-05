@@ -1,0 +1,117 @@
+{
+  "name": "MkDocs Publisher",
+  "author": "DevRel Team",
+  "description": "MkDocs Publisher",
+  "inputs": {
+    "name": "MkDocs Publisher",
+    "purpose": "A simple action to build an MkDocs site and push it to the gh-pages branch. Should be easy to use.",
+    "author": "DevRel Team",
+    "inputs": {
+      "python-version": {
+        "description": "The version of Python to set up for building.",
+        "default": 3.11
+      },
+      "requirements-file": {
+        "description": "Path to the Python requirements file",
+        "required": true
+      },
+      "gh-token": {
+        "description": "GitHub token for deployment.",
+        "required": true
+      }
+    },
+    "outputs": {
+      "page-url": {
+        "description": "The URL of the deployed GitHub Pages site."
+      }
+    },
+    "branding": {
+      "color": "blue",
+      "icon": "book-open"
+    }
+  },
+  "outputs": {
+    "name": "MkDocs Publisher",
+    "purpose": "A simple action to build an MkDocs site and push it to the gh-pages branch. Should be easy to use.",
+    "author": "DevRel Team",
+    "inputs": {
+      "python-version": {
+        "description": "The version of Python to set up for building.",
+        "default": 3.11
+      },
+      "requirements-file": {
+        "description": "Path to the Python requirements file",
+        "required": true
+      },
+      "gh-token": {
+        "description": "GitHub token for deployment.",
+        "required": true
+      }
+    },
+    "outputs": {
+      "page-url": {
+        "description": "The URL of the deployed GitHub Pages site."
+      }
+    },
+    "branding": {
+      "color": "blue",
+      "icon": "book-open"
+    }
+  },
+  "runs": {
+    "name": "MkDocs Publisher",
+    "purpose": "A simple action to build an MkDocs site and push it to the gh-pages branch. Should be easy to use.",
+    "author": "DevRel Team",
+    "inputs": {
+      "python-version": {
+        "description": "The version of Python to set up for building.",
+        "default": 3.11
+      },
+      "requirements-file": {
+        "description": "Path to the Python requirements file",
+        "required": true
+      },
+      "gh-token": {
+        "description": "GitHub token for deployment.",
+        "required": true
+      }
+    },
+    "outputs": {
+      "page-url": {
+        "description": "The URL of the deployed GitHub Pages site."
+      }
+    },
+    "branding": {
+      "color": "blue",
+      "icon": "book-open"
+    }
+  },
+  "branding": {
+    "name": "MkDocs Publisher",
+    "purpose": "A simple action to build an MkDocs site and push it to the gh-pages branch. Should be easy to use.",
+    "author": "DevRel Team",
+    "inputs": {
+      "python-version": {
+        "description": "The version of Python to set up for building.",
+        "default": 3.11
+      },
+      "requirements-file": {
+        "description": "Path to the Python requirements file",
+        "required": true
+      },
+      "gh-token": {
+        "description": "GitHub token for deployment.",
+        "required": true
+      }
+    },
+    "outputs": {
+      "page-url": {
+        "description": "The URL of the deployed GitHub Pages site."
+      }
+    },
+    "branding": {
+      "color": "blue",
+      "icon": "book-open"
+    }
+  }
+}

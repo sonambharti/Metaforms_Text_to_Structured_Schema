@@ -1,0 +1,77 @@
+﻿Sonam Bharti
+H +91 7903810871 # sonam.iitjammu2023@gmail.com  sonam-portfolio-three.vercel.app
+
+ï linkedin.com/in/sonam-bharti-213127178 § github.com/sonambharti ü medium.com/@sonam.iitjammu2023
+
+Education
+Indian Institute of Technology Jammu, Jammu Sep 2021 - Jun 2023
+Master of Technology in Computer Science and Engineering CGPA - 8.25/10
+
+Nalanda College of Engineering, Chandi, Bihar Aug 2017 - Sep 2021
+Bachelor of Technology in Computer Science and Engineering CGPA - 8.28/10
+Skills
+
+Languages: Python, Java, C++, JavaScript, HTML, CSS
+Databases: MySQL, MongoDB, Redis
+CS Fundamentals: Data Structures, Algorithms, OOP, System Design, OS, Networks
+Full Stack & Web: React JS, Node JS, FastAPI, REST API, Responsive Design, Accessibility
+Development Practices: Code Reviews, Design Reviews, Debugging, Agile, CI/CD, Git
+Tools: Linux, Docker, Kubernetes, Grafana, GitHub, VS Code, Postman
+
+Experience
+Full Stack Developer (SDE-I) | Saarthi.ai , Bengaluru Aug 2023 – Apr 2025
+
+• Led the BOT and NLU team to launch insurance renewal bot; solely developed and owned fraud detection bots
+using scalable NLP pipelines, and SOLID - compliant production-grade code, accelerating delivery by 30%.
+
+• Built generative AI bots using Gradio, LangChain, vectorDB (like weaviate), and prompt engineering to
+implement RAG-based LLMs, reducing product lifecycle from 5 days to 1 day.
+
+• Automated data preprocessing using Python scripts, reducing processing time by 40%, and trained CUX team in
+dataset creation, which improved NLU and NER accuracy by 20% for BFSI clients.
+
+• Implemented solutions to identify new entity through NER for 3 verticals, trained, fine-tuned and managing
+production workloads on AWS cloud environment using Docker.
+
+• Optimized voice/WhatsApp bots in Agile methodologies using asynchronous APIs, reducing latency by 30% and
+annual infrastructure costs by up to 40%, while reviewing code to ensure best practices in accuracy, and efficiency.
+
+• Conducted root cause analysis, and the mongoDB performance tuning, leveraging Grafana for monitoring to
+improve service uptime and reduce support tickets by 50%, enhancing customer experience.
+
+• Developed REST API, using CRUD functionality, and built microservice to enable robust ETL pipline between
+client databases and our systems, ensuring seamless data integration and transformation.
+
+• Containerized applications using Docker and orchestrated deployment via Kubernetes, enabling seamless rollouts
+with CI/CD pipelines on GitHub Actions to reduce deployment delays by 20%.
+
+• Collaborated with cross-functional teams to streamline development workflows and, authored API and systems
+documentation, and contributed to product architecture, improving team onboarding and codebase understanding.
+
+Tools: Python, FastAPI, Flask, PyTorch, Javascript, Node JS, RESTful API, AWS, Docker, MongoDB, Redis,
+Kubernetes, Postman, Git, Prompt Engineering, LLM, Langchain, and GenerativeAI .
+Projects
+
+Photo-Realistic Single Image Super Resolution Using GAN | Python, Numpy, PyTorch and celebA Dataset
+• Implemented SRGAN architecture aimed at enhancing the finer details of degraded images.
+• Trained a Generative Adversarial Network (GAN) to generate up to 4-times upscaled high-resolution image.
+• Optimized model performance by fine-tuning hyperparameters and utilizing perceptual loss to enhance image quality.
+
+Improving Deep Learning Model using Data Augmentation and Transfer Learning | Python, Pandas, Tensorflow
+• Implemented transfer learning with Xception architecture using ImageNet weights to classify Simpson image dataset.
+• Applied data augmentation to create more different geometrical transformed images to reduce overfitting of model.
+• Evaluated data augmentation’s efficiency, comparing it favorably to the Transfer Learning method for Simpson dataset.
+
+Scholastic Achievements
+
+• Ranked in the top 4% among GATE 2021 Computer Science candidates, showcasing exceptional aptitude.
+• Attained top 3 position in B.Tech third year, earning prestigious Academic excellence award.
+• Achieved under 25th rank in the HCL First Career Grand Quest 2021 , a national-level competition.
+• Secured 3rd position in TEQUIP3 hackathon organized by LNJPIT, Chapra, Bihar, demonstrating coding prowess.
+• Demonstrated DSA problem-solving skills over 300 challenges on Platforms like GeeksForGeeks , Leetcode .
+
+Position of Responsibilities
+Teaching Assistant | IIT Jammu , Jammu and Kashmir Sep 2021 - May 2023
+
+• Assisted Assistant Prof. Harkeerat Kaur in Design Analysis Algorithm Lab assignments and exam evaluations.
+• Supported Associate Prof. Bruhadeshwar Bezawada with Operating System Lab assessments, and evaluations.
